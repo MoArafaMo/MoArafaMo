@@ -1,12 +1,14 @@
-<!--
-**MoArafaMo/MoArafaMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const Kayla = {
+  pronouns: "She/Her",
+  jobTitle: "Frontend Software Engineer",
+  company: "Harvest",
+  education: "Videogame Design",
+  skills: {
+    frontend: ["JavaScript", "React/React Native", "Redux Toolkit", "HTML5", "CSS3", "Git"],
+    backend: ["Node.js", "Ruby on Rails"],
+    design: ["PhotoShop", "Illustrator", "Blender"]
+  },
+  favorites: ["React/React Native", "TensorFlow.js", "THREE.js", "GSAP3"], 
+  hobbies: ["videogames", "art", "traveling", "coding", "Japanese"],
+  funFact: "I used to live and work in Japan as an English teacher!"
+};
