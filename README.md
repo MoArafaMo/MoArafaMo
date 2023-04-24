@@ -1,15 +1,14 @@
-
 <h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Mohamed, Welcome To My Github Profile ♥</h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
 <br/>
 <br/>
-
-<img align="right" src="[[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://drive.google.com/file/d/1sZ6-baLqar0Hw9jP9LgpwE-ODjWFS-EW/view?usp=sharing)](https://www.pinterest.com/search/pins/?q=software%20engineer%20gif&rs=typed)" alt="Coder GIF" width="380" height="280">
-
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 <h3>🚀 About Me</h3> 
-<h4> I'm Mohamed Arafa from Egypt. I'm a Front-End Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
+<h4> I'm Mohamed Arafa from Egypt. I'm a Embedded software developer.I really enjoy learning Programming languages and microcontrollers  ollers.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
 
 
 	
@@ -33,7 +32,7 @@
  ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 
-<img src="[https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1](https://drive.google.com/file/d/1sZ6-baLqar0Hw9jP9LgpwE-ODjWFS-EW/view?usp=sharing).gif" width=100% height=95px>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
@@ -73,4 +72,5 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+
 
