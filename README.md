@@ -1,6 +1,6 @@
 <h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Mohamed Arafa Sayed Ahmed
 </h1>
-<h2 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/Marti nHeinz/master/wave.gif" width="25px"> --> Embedded Software Development Engineer    
+    
 </h2>
 <h4 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/Marti nHeinz/master/wave.gif" width="25px"> --> 📍 Cairo, Egypt        📧 mohamed.ahmed0110@eng-st.cu.edu.eg       📱 +20 114560671
 </h4>
