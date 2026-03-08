@@ -1,4 +1,9 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Mohamed, Welcome To My Github Profile </h1>
+<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Mohamed Arafa Sayed Ahmed
+Embedded Software Development Engineer 
+📍 Cairo, Egypt
+📧 mohamed.ahmed0110@eng-st.cu.edu.eg
+📱 +20 114560671
+</h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile   -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
@@ -6,7 +11,40 @@
 <br/>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 <h3>🚀 About Me</h3> 
-<h4> I'm Mohamed Arafa from Egypt. I'm a Embedded software developer.I really enjoy learning Programming languages and microcontrollers  ollers.  I also enjoy Implementing of designs. </h4>
+<h4>Embedded Software Engineer with a strong background in C/C++, Embedded Linux, Automotive Systems, and Networking Protocols.
+Experienced in developing real-time embedded applications, IoT systems, and automotive communication solutions. Passionate about building reliable, secure, and high-performance embedded software. </h4>
+
+<h2>🚀 Highlights</h2> 
+<h3>1 Software Engineering :</h3> 
+<h4>- Modern C++ (C++11/14/17) development
+- Strong knowledge of OOP, SOLID principles, and concurrency
+- Experience building Qt Widgets & Qt/QML GUI applications
+- Familiar with build systems (CMake, Makefiles) </h4>
+
+<h3>2- Embedded Systems :</h3> 
+<h4>- Development on ARM Cortex-M (TM4C), ESP32, ESP8266, AVR ATmega32, Raspberry Pi
+- Real-time systems development using FreeRTOS
+- Implementation of AUTOSAR device drivers (DIO, Port) based on AUTOSAR 4.0.3
+- Experience with embedded communication protocols:</h4>
+
+<h3>3- Embedded Linux :</h3>
+<h4>- Building embedded Linux systems using Yocto
+- Linux system programming (processes, signals, sockets)
+- Device driver integration and system service automation using systemd
+- Experience deploying projects on Raspberry Pi targets:</h4>
+													   
+<h3>4- Networking & IoT :</h3> 
+<h4>- Development of TCP/UDP socket communication systems
+- Implemented MQTT clients with TLS for secure messaging
+- Experience with AWS cloud services and HiveMQ
+- Real-time IoT communication frameworks:</h4>
+														
+<h3>5- Automotive Software :</h3> 
+<h4>- Knowledge of AUTOSAR architecture
+- Experience with CAN communication stacks
+- Familiar with Functional Safety (ISO 26262)
+- Experience with Vehicle-to-Everything (V2X) communication systems:</h4>
+											
 
 
 	
